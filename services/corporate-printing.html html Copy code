@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Corporate Printing | Mustafa Graphics</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+
+<body>
+
+<header class="navbar">
+  <div class="logo">Mustafa Graphics</div>
+  <nav>
+    <a href="../index.html">Home</a>
+    <a href="../services.html">Services</a>
+    <a class="cta" href="https://wa.me/918433624996" target="_blank">Contact Us</a>
+  </nav>
+</header>
+
+<section class="service-detail">
+  <h1>Corporate Printing</h1>
+
+  <p>
+    We provide professional corporate printing solutions for offices, businesses,
+    and organizations with consistent branding and premium quality.
+  </p>
+
+  <h3>Our Corporate Printing Services</h3>
+  <ul>
+    <li><strong>Visiting Cards</strong> — Premium business cards.</li>
+    <li><strong>Letterheads</strong> — Branded office stationery.</li>
+    <li><strong>Envelopes</strong> — Custom printed envelopes.</li>
+    <li><strong>Bill Books</strong> — Customized billing books.</li>
+    <li><strong>ID Cards</strong> — With accessories and printing.</li>
+    <li><strong>Brochures & Pamphlets</strong> — Marketing materials.</li>
+  </ul>
+
+  <a class="btn" href="https://wa.me/918433624996" target="_blank">
+    Contact Us on WhatsApp
+  </a>
+</section>
+
+<footer>
+  <p>© 2026 Mustafa Graphics.</p>
+</footer>
+
+</body>
+</html>
